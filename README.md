@@ -16,6 +16,8 @@
   <img src="./banner.gif" alt="banner">
 </p>
 
+<hr/>
+
 
 ## 👨‍💻 About Me
 
