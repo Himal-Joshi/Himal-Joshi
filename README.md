@@ -18,6 +18,8 @@
 
 <hr/>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Himal-Joshi.Himal-Joshi" />
+
 
 ## 👨‍💻 About Me
 
