@@ -51,10 +51,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himal-Joshi&show_icons=true&locale=en" alt="Himal-Joshi" /></p> -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=himal-joshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=himmal-joshi&theme=dark&hide_border=false)<br/>
 
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false" alt="Himal-Joshi" />
-</div>
+</div> -->
 
 <br/>
 <div align="center">
