@@ -51,7 +51,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himal-Joshi&show_icons=true&locale=en" alt="Himal-Joshi" /></p> -->
 
-![]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(https://github-readme-stats.shion.dev/api/top-langs/?username=himal-joshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.shion.dev/api/top-langs/?username=himal-joshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false)
 
 <!-- <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false" alt="Himal-Joshi" />
