@@ -47,9 +47,9 @@
 <h2 align="center">🏆 Github Profile Stats</h2>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himal-Joshi&show_icons=true&locale=en&layout=compact" alt="Himal-Joshi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himal-Joshi&show_icons=true&locale=en&layout=compact" alt="Himal-Joshi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himal-Joshi&show_icons=true&locale=en" alt="Himal-Joshi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himal-Joshi&show_icons=true&locale=en" alt="Himal-Joshi" /></p> -->
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&" alt="Himal-Joshi" />
