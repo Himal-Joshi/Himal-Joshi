@@ -53,16 +53,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.shion.dev/api/top-langs/?username=himal-joshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false)
 
+
+<br/>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himal-Joshi&radius=16&bg_color=transparent&color=ffffff&line=d4a373&point=d4a373&area_color=d4a373&hide_border=true&area=true" height="300" alt="Activity Graph" />
+</div>
+
 <!-- <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false" alt="Himal-Joshi" />
 </div> -->
 
-<br/>
+<!-- <br/>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himal-Joshi&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
     <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
