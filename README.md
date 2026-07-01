@@ -18,8 +18,8 @@
 
 <hr/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Himal-Joshi.Himal-Joshi" />
-
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Himal-Joshi.Himal-Joshi" /> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Himal-Joshi.Himal-Joshi&right_color=yellow" />
 
 # 👨‍💻 About Me
 
@@ -29,7 +29,7 @@
 
 
 
-### 💫You can find my full portfolio at: **[https://himaljoshi.info.np](https://himaljoshi.info.np)**
+##### 💫You can find my full portfolio at: **[https://himaljoshi.info.np](https://himaljoshi.info.np)**
 
 <!-- <h3 align="left">🌟Connect with me:</h3> -->
 <!-- <p align="left">
