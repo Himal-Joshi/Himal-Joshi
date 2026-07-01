@@ -50,7 +50,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himal-Joshi&show_icons=true&locale=en&layout=compact" alt="Himal-Joshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himal-Joshi&show_icons=true&locale=en" alt="Himal-Joshi" /></p> -->
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=himal-joshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp; ![](https://streak-stats.demolab.com/?user=Himmal-Joshi&theme=dark&hide_border=false)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.shion.dev/api/toplangs/username=himaljoshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+&nbsp;&nbsp;&nbsp;&nbsp; ![]([https://streak-stats.demolab.com/?user=Himmal-Joshi&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false))<br/>
 
 <!-- <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himal-Joshi&theme=dark&hide_border=false" alt="Himal-Joshi" />
