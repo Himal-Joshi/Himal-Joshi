@@ -100,10 +100,14 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(graph_repos_stars.__name__, query, variables)
     if request.status_code == 200:
+        resp_data = request.json()['data']
+        if resp_data is None or resp_data.get('user') is None or resp_data['user'].get('repositories') is None:
+            raise Exception('graph_repos_stars: GitHub API returned incomplete data (None user/repositories). Response:', request.json())
         if count_type == 'repos':
             return request.json()['data']['user']['repositories']['totalCount']
         elif count_type == 'stars':
-            return stars_counter(request.json()['data']['user']['repositories']['edges'])
+            edges = request.json()['data']['user']['repositories']['edges']
+            return stars_counter(edges if edges is not None else [])
 
 
 def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, deletion_total=0, my_commits=0, cursor=None):
@@ -311,8 +315,12 @@ def stars_counter(data):
     """
     Count total stars in repositories owned by me
     """
+    if data is None:
+        return 0
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in data:
+        if node is not None and node.get('node') is not None and node['node'].get('stargazers') is not None:
+            total_stars += node['node']['stargazers']['totalCount']
     return total_stars
 
 
