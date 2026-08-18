@@ -84,9 +84,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
                     node {
                         ... on Repository {
                             nameWithOwner
-                            stargazers {
-                                totalCount
-                            }
+                            stargazerCount
                         }
                     }
                 }
@@ -319,8 +317,8 @@ def stars_counter(data):
         return 0
     total_stars = 0
     for node in data:
-        if node is not None and node.get('node') is not None and node['node'].get('stargazers') is not None:
-            total_stars += node['node']['stargazers']['totalCount']
+        if node is not None and node.get('node') is not None and node['node'].get('stargazerCount') is not None:
+            total_stars += node['node']['stargazerCount']
     return total_stars
 
 
@@ -330,6 +328,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     tree = etree.parse(filename)
     root = tree.getroot()
+    justify_format(root, 'age_data', age_data, 49)
     justify_format(root, 'commit_data', commit_data, 22)
     justify_format(root, 'star_data', star_data, 14)
     justify_format(root, 'repo_data', repo_data, 6)
