@@ -68,9 +68,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.shion.dev/api/top-langs/?username=himal-joshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://streak-stats.demolab.com?user=Himal-Joshi&theme=dark&hide_border=false)
 
 
-<br/>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himal-Joshi&radius=16&bg_color=000000&color=ffffff&line=F5C518&point=F5C518&area_color=F5C518&hide_border=true&area=true" height="300" alt="Activity Graph" />
+    <img
+        src="https://himal-github-activity-graph.vercel.app/api/graph?username=Himal-Joshi&radius=16&bg_color=000000&color=ffffff&line=F5C518&point=F5C518&area_color=F5C518&hide_border=true&area=true"
+        height="300"
+        alt="Activity Graph" />
 </div>
 
 <!-- <div align="center">
