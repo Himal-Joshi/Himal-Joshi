@@ -70,7 +70,8 @@
 
 <div align="center">
     <img
-        src="https://himal-github-activity-graph.vercel.app/api/graph?username=Himal-Joshi&radius=16&bg_color=000000&color=ffffff&line=F5C518&point=F5C518&area_color=F5C518&hide_border=true&area=true"
+        src="https://himal-github-activity-graph.vercel.app/api/graph?username=Himal-Joshi&radius=16&bg_color=000000&color=ffffff&line=F5C518&point=F5C518&area_color=F5C518&hide_border=true&area=true
+"
         height="300"
         alt="Activity Graph" />
 </div>
