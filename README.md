@@ -70,15 +70,15 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <a href="https://himal-github-activity-graph.vercel.app/api/graph?username=Himal-Joshi&radius=16&bg_color=000000&color=ffffff&line=F5C518&point=F5C518&area_color=F5C518&hide_border=true&area=true">
+  <a href="https://github.com/Himal-Joshi">
     <img
       src="https://himal-github-activity-graph.vercel.app/api/graph?username=Himal-Joshi&radius=16&bg_color=000000&color=ffffff&line=F5C518&point=F5C518&area_color=F5C518&hide_border=true&area=true"
       height="300"
-      alt="Activity Graph"
-      title="Click to view interactive activity graph"
+      alt="Himal Joshi's Activity Graph"
     />
   </a>
 </div>
+
 
 
 <!-- <div align="center">
